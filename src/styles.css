@@ -19,7 +19,7 @@ ol, ul {
 }
 
 .btn {
-  background: lightseagreen;
+  background: #fcb79d;
   color: #fff;
   padding: 3px 10px;
   margin: 0 0 0 3px;
@@ -36,7 +36,7 @@ ol, ul {
 }
 
 .btn-red {
-  background: red;
+  background:#aa5758;
 }
 
 .btn-red:hover {
@@ -49,5 +49,6 @@ ol, ul {
   margin-bottom: 30px;
   font-weight: bold;
   text-align: center;
+  color: #293858;
   letter-spacing: -0.8px;
 }
